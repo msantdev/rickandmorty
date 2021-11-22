@@ -38,19 +38,21 @@ RICK_API_URL=https://rickandmortyapi.com/api/character?page=```
 ```
 ### Install Dependencies (frontend & backend)
 
+```
 npm install
 cd client_app
 npm install
 ```
 
-# Run frontend
-
+### Run frontend
 ```
+
 cd client_app
 npm start
+```
 
 
-# Run backend 
+### Run backend 
 ```
 npm run server
 ```
