@@ -44,6 +44,11 @@ cd client-app
 npm install
 ```
 
+### Run backend 
+```
+npm run server (root folder)
+```
+
 ### Run frontend
 ```
 
@@ -51,11 +56,6 @@ cd client-app
 npm start
 ```
 
-
-### Run backend 
-```
-npm run server (root folder)
-```
 
 ### Run Test
 ```
