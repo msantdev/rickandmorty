@@ -63,5 +63,12 @@ cd client-app
 npm run test
 ```
 
+Inside users collection there is one user with the following credentials:
+
+username: mariano
+password: 12345
+
+Feel free tu use that users or you can also register and create new ones.
+
 
 
