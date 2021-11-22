@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  padding-top: 160px;
+}
+.characters {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+@media (max-width: 1200px) {
+  .characters {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media (max-width: 950px) {
+  .characters {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 650px) {
+  .characters {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 570px) {
+  .characters {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
