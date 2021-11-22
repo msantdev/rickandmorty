@@ -19,7 +19,7 @@
 
 ### Env Variables
 
-Create a .env file in "client_app" folder and add the following
+Create a .env file in "client-app" folder and add the following
 
 ```
 REACT_APP_API=http://localhost:5000
@@ -40,14 +40,14 @@ RICK_API_URL=https://rickandmortyapi.com/api/character?page=```
 
 ```
 npm install
-cd client_app
+cd client-app
 npm install
 ```
 
 ### Run frontend
 ```
 
-cd client_app
+cd client-app
 npm start
 ```
 
@@ -59,7 +59,7 @@ npm run server (root folder)
 
 ### Run Test
 ```
-cd client_app
+cd client-app
 npm run test
 ```
 
