@@ -54,7 +54,7 @@ npm start
 
 ### Run backend 
 ```
-npm run server
+npm run server (root folder)
 ```
 
 ### Run Test
