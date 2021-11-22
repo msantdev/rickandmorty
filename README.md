@@ -71,4 +71,7 @@ password: 12345
 Feel free tu use that users or you can also register and create new ones.
 
 
+I know that sending this private info into readme is not good practice but I did it to make it simplear. 
+
+
 
