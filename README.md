@@ -34,9 +34,10 @@ JWT_SECRET=6190a9af16eafed487f8c3e2b8754300f71af7434757c060ddb34496a8412fbf208a9
 JWT_EXPIRE=240min
 RICK_API_URL=https://rickandmortyapi.com/api/character?page=```
 
-### Install Dependencies (frontend & backend)
 
 ```
+### Install Dependencies (frontend & backend)
+
 npm install
 cd client_app
 npm install
