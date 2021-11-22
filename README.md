@@ -42,14 +42,15 @@ cd client_app
 npm install
 ```
 
-### Run frontend
+# Run frontend
 
 ```
 cd client_app
 npm start
-```
+
 
 # Run backend 
+```
 npm run server
 ```
 
