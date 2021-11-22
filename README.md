@@ -32,7 +32,7 @@ PORT = 5000
 MONGO_URI=mongodb+srv://msant:1592@cluster0.xssf4.mongodb.net/rickymorty?retryWrites=true&w=majority
 JWT_SECRET=6190a9af16eafed487f8c3e2b8754300f71af7434757c060ddb34496a8412fbf208a94
 JWT_EXPIRE=240min
-RICK_API_URL=https://rickandmortyapi.com/api/character?page=```
+RICK_API_URL=https://rickandmortyapi.com/api/character?page=
 
 
 ```
